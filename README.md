@@ -3,7 +3,7 @@
 ### Install `rpi-imager`
 
 1. run `sudo pacman -Syu`
-2. run `git clone https://aur.archlinux.org/packages/rpi-imager`
+2. run `git clone https://aur.archlinux.org/rpi-imager.git`
 3. run `cd rpi-imager`
 4. run `makepkg -si`
 
