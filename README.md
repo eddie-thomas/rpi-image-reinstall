@@ -9,4 +9,4 @@
 
 Run the `rpi-imager` command to launch the OS writer. Use the micro-SD USB reader/writer and pick an OS.
 
-*Documentation explaining what to do when reinstalling the OS (operating system) for the Raspberry Pi on Arch-based system DCA_DISABLE_AUTH: true,*
+*Documentation explaining what to do when reinstalling the OS (operating system) for the Raspberry Pi on Arch-based system*
